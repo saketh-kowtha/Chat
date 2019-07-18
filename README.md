@@ -1,1 +1,36 @@
 # Chat
+**User Docs**
+
+Working Demo : 
+
+  
+
+App URL : [http://159.65.148.250:3001/](http://159.65.148.250:3001/)
+
+  
+
+**Note: ****Emoji Shortcuts feature is missing in video  
+**
+
+**Register**
+
+*    After submission user should wait for notification box. Notification box will appear for both success and failure operations.
+
+           After successful submission user will receive an Email verification mail but due to firewall security issue not working as per expected but working fine in development build at local machine.
+
+**Login**
+
+*    User can login with his credentials.
+
+**Portal**
+
+*    After first time Login, User need to add friends and user should be added by other user with whom user want to chat with. Otherwise they can't send or receive messages from other user. 
+*   One can add friends by using Search box located at header.
+
+**Emoji Shortcuts**
+
+*    User can use keyboard emoji shortcuts for emojis like ":), 8) and ^\_^ etc..." in message input box.
+
+**IBM Watson Tone Analyser**
+
+*     When user receives messages group of emojis are displayed on top of input box based on senders mood  so user can use those instantly.
