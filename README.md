@@ -8,9 +8,7 @@ Working Demo :
 
   
 
-**Note: 
-****Emoji Shortcuts feature is missing in video  
-**
+**Note: Emoji Shortcuts feature is missing in video  
 
 **Register**
 
