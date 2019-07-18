@@ -1,11 +1,11 @@
 # Chat
+**Config**
+* Change IBM Watson Tone Analyser key in server/tone.js
+* Change Gmail Username and Password in server/src/const.js
 **User Docs**
 
 Working Demo : 
 [![Video](https://img.youtube.com/vi/iTwP6v7hkYM/0.jpg)](https://www.youtube.com/watch?v=iTwP6v7hkYM)
-  
-
-
   
 
 **Note: Emoji Shortcuts feature is missing in video  
