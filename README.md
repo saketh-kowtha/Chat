@@ -2,14 +2,14 @@
 **User Docs**
 
 Working Demo : 
+[![Video](https://img.youtube.com/vi/iTwP6v7hkYM/0.jpg)](https://www.youtube.com/watch?v=iTwP6v7hkYM)
+  
+
 
   
 
-App URL : [http://159.65.148.250:3001/](http://159.65.148.250:3001/)
-
-  
-
-**Note: ****Emoji Shortcuts feature is missing in video  
+**Note: 
+****Emoji Shortcuts feature is missing in video  
 **
 
 **Register**
