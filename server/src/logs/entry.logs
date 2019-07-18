@@ -1,0 +1,12 @@
+Browser: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:67.0) Gecko/20100101 Firefox/67.0
+Headers: {"host":"localhost:3001","user-agent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:67.0) Gecko/20100101 Firefox/67.0","accept":"text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8","accept-language":"en-US,en;q=0.5","accept-encoding":"gzip, deflate","connection":"keep-alive","upgrade-insecure-requests":"1","if-none-match":"W/\"7-yk+dzyBOIDe/5YhIZ76tmL2cuvg\"","cache-control":"max-age=0"}
+Language: en-US,en;q=0.5
+Got an entry from ::1
+
+
+Browser: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:67.0) Gecko/20100101 Firefox/67.0
+Language: en-US,en;q=0.5
+Headers: {"host":"localhost:3001","user-agent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:67.0) Gecko/20100101 Firefox/67.0","accept":"text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8","accept-language":"en-US,en;q=0.5","accept-encoding":"gzip, deflate","connection":"keep-alive","upgrade-insecure-requests":"1","if-none-match":"W/\"7-yk+dzyBOIDe/5YhIZ76tmL2cuvg\"","cache-control":"max-age=0"}
+Got an entry from ::1
+
+
