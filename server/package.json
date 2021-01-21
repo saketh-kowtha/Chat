@@ -16,7 +16,7 @@
     "mongodb": "^3.2.7",
     "mongoose": "^5.5.13",
     "nodemailer": "^6.2.1",
-    "socket.io": "^2.2.0"
+    "socket.io": "^2.4.0"
   },
   "devDependencies": {},
   "scripts": {
